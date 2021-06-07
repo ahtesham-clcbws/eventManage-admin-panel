@@ -1,1 +1,0 @@
-# eventManage-admin-panel
